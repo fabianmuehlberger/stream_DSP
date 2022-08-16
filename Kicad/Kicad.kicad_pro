@@ -575,6 +575,10 @@
     [
       "fc70b7b5-40ea-48ba-b37b-91c92dde031f",
       "POWER"
+    ],
+    [
+      "f57a1676-bccf-420e-8992-39ff2da9b98b",
+      "externl_circuits"
     ]
   ],
   "text_variables": {}
