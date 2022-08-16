@@ -914,7 +914,7 @@
     (uuid d8a2f880-8741-40ff-8e2b-b0680c420be0)
     (property "Reference" "J1" (id 0) (at 59.69 64.77 0))
     (property "Value" "USB_C_Receptacle_USB2.0" (id 1) (at 59.69 67.31 0))
-    (property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401548E4-2A" (id 2) (at 63.5 87.63 0)
+    (property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" (id 2) (at 63.5 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 63.5 87.63 0)

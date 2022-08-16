@@ -481,6 +481,24 @@
         "via_diameter": 0.2,
         "via_drill": 0.4,
         "wire_width": 6.0
+      },
+      {
+        "bus_width": 12.0,
+        "clearance": 0.1,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "diff_pair",
+        "nets": [],
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.175,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6.0
       }
     ],
     "meta": {
@@ -539,24 +557,24 @@
   },
   "sheets": [
     [
-      "8d060a49-044e-457a-933d-f8da60fd8291",
+      "eaef1172-3351-417c-bfc4-74a598f141cb",
       ""
     ],
     [
-      "e7b7b4dd-b73d-4fa3-bdb5-2ae19e0eb062",
+      "6df5daab-4c21-4240-9816-377e45d59fb9",
       "DSP"
     ],
     [
-      "e85e6a42-14a6-4645-af02-29b3d3202e4a",
+      "14104a26-f0d1-4bb5-95a4-061659058c78",
       "USB"
     ],
     [
-      "c01eede5-442b-4eee-8915-317c7c0afafb",
-      "POWER"
+      "0502a4b7-f1e4-41d1-b3cb-3e756a9c03ee",
+      "OCTALFLASH"
     ],
     [
-      "6b195ebd-f190-48d0-a870-ea74e79d4944",
-      "OCTALFLASH"
+      "fc70b7b5-40ea-48ba-b37b-91c92dde031f",
+      "POWER"
     ]
   ],
   "text_variables": {}
