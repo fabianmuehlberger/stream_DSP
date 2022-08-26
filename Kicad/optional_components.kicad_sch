@@ -1,0 +1,22 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid c58154ae-3b7a-4abc-845f-66e2bb04a5bd)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 27.94 27.94) (size 35.56 31.75) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid ad8d4036-2e46-49ab-b022-6e0ca3d1865f)
+    (property "Sheet name" "DAC_ES9029" (id 0) (at 27.94 27.2284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "DAC_ES902´9.kicad_sch" (id 1) (at 27.94 60.2746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+)
