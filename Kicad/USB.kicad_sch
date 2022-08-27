@@ -796,7 +796,7 @@
   )
 
   (text "Trace Width ~ 0.38 mm\nTrace Dist. ~ 0.127 mm\nAt board thickness 1.6 2 layer"
-    (at 104.14 99.06 0)
+    (at 95.25 97.79 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8b77f24d-f7cd-444b-ab03-794d7a0142bc)
   )
